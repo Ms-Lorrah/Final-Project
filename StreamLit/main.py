@@ -1,9 +1,6 @@
 import streamlit as st
-from textblob import TextBlob
 import pandas as pd
 from nltk.corpus import stopwords 
-import tensorflow as tf
-import numpy as np
 import cleantext
 import tensorflow as tf
 import nltk
